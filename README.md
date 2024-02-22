@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@phanipramod](https://medium.com/@phanipramod)
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **phanipramodk@gmail.com**
 
