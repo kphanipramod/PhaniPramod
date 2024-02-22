@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/phanipramod](https://www.datascienceportfol.io/phanipramod)
 
-- 📝 I regularly write articles on [Data Analysis](Data Analysis)
+- 📝 I regularly write articles on [https://medium.com/@phanipramod]
 
 - 💬 Ask me about **Data**
 
