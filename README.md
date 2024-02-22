@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phani Pramod Kruttiventi</h1>
+<h1 align="center">Hi 👋, I'm Phani Pramod </h1>
 <h3 align="center">I solve complex problems by analyzing big datasets, building models to derive insights, and creating interactive visualization dashboards to tell the story.</h3>
 
 - 🌱 I’m currently learning **Generative AI**
