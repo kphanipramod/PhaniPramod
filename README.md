@@ -27,7 +27,8 @@
 #### Data Visualisation
 | Project Name| Repo Link | Tool Used|
 | --- | --- | --- |
-| Spotify-Data-Analysis | [Click here](https://github.com/kphanipramod/Spotify-Data-Analysis) | Power BI|
+| Spotify-Data-Analysis | [Click here](https://github.com/kphanipramod/Spotify-Data-Analysis) | Tableau|
+| Youtube-Trends-Analyzed | [Click here](https://github.com/kphanipramod/Youtube-Trends-Analyzed) | Power BI|
 
 #### SQL
 | Project Name| Repo Link | Notes|
