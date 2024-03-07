@@ -40,10 +40,6 @@
 | --- | --- | --- |
 | Walmart Retail Analysis  |[Click here]()|Excel|
 
-#### PowerBI
-| Project Name| Repo Link | Notes|
-| --- | --- | --- |
-| Product-Reviews-And-Rating-Analysis  |[Click here](https://github.com/kphanipramod/Product-Reviews-And-Rating-Analysis)|PowerBI|
 
 #### End-to-End Project
 | Project Name| Repo Link | Notes|
