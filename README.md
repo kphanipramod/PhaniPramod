@@ -34,14 +34,3 @@
 | Project Name| Repo Link | Notes|
 | --- | --- | --- |
 | COVID-19-Analysis-with-SQL  |[Click here](https://github.com/kphanipramod/COVID-19-Analysis-with-SQL)|MySQL|
-
-#### Excel
-| Project Name| Repo Link | Notes|
-| --- | --- | --- |
-| Walmart Retail Analysis  |[Click here]()|Excel|
-
-
-#### End-to-End Project
-| Project Name| Repo Link | Notes|
-| --- | --- | --- |
-| E-commerce Data Analysis |[Click here]()|SQL, Python|
