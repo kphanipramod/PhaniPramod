@@ -3,13 +3,8 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/phanipramod](https://www.datascienceportfol.io/phanipramod)
-
-- 📝 I regularly write articles on [https://medium.com/@phanipramod](https://medium.com/@phanipramod)
-
 - 💬 Ask me about **Problem Solving**
 
-- 📫 How to reach me **phanipramodk@gmail.com**
 
 - ⚡ Fun fact **I use data analysis and generate passive income by Investments.**
 
