@@ -19,10 +19,6 @@
 
 ## Navigating my Github 
 
-#### Python
-| Project Name| Repo Link | Notes|
-| --- | ---- | -- |
-| Toronto-Bike-Share-Analysis | [Click here](https://github.com/kphanipramod/Toronto-Bike-Share-Analysis) | EDA, Data Cleaning |
 
 #### Data Visualisation
 | Project Name| Repo Link | Tool Used|
